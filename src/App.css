@@ -108,6 +108,8 @@ h6 {
 	border: none;
 	cursor: pointer;
 	outline: none;
+	justify-items: right;
+	justify-self: right;
 }
 .nav-icon {
 	font-size: 1.5rem;
@@ -137,7 +139,7 @@ h6 {
 }
 
 .show-nav {
-	height: 100px;
+	height: 160px;
 }
 @media screen and (min-width: 768px) {
 	.nav-btn {
